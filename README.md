@@ -8,12 +8,12 @@
 
 ---
 
-# DIGG project A.
+# ODE project.
 Enabling open data for machine learning and AI
 
 # Setup
 
-Clone the repository: `git clone https://github.com/Adilius/DIGG_ML-AI_API.git`
+Clone the repository: `git clone https://github.com/SuperStar0000000/ODE.git`
 
 # Run docker
 
